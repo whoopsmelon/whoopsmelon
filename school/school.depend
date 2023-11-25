@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1700543736 source:e:\c题库\大作业\school\main.c
+	"school.h"
+
+1700545117 e:\c题库\大作业\school\school.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1700566342 source:e:\c题库\大作业\school\userid.c
+	"school.h"
+
+1700543914 source:e:\c题库\大作业\school\welcome.c
+	"school.h"
+
+1700505470 source:e:\c题库\大作业\school\in.c
+	"school.h"
+
+1700566986 source:e:\c题库\大作业\school\read.c
+	"school.h"
+
+1700505474 source:e:\c题库\大作业\school\apartment.c
+	"school.h"
+
+1700568366 source:e:\c题库\大作业\school\normal func.c
+	"school.h"
+
+1700568829 source:e:\c题库\大作业\school\restricted access func.c
+	"school.h"
+
